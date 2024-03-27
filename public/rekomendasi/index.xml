@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rekomendasi Banget on Sekolah Koding Milineal</title>
+    <link>http://localhost:1313/rekomendasi/</link>
+    <description>Recent content in Rekomendasi Banget on Sekolah Koding Milineal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 01:39:04 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/rekomendasi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buku</title>
+      <link>http://localhost:1313/rekomendasi/buku/</link>
+      <pubDate>Mon, 25 Mar 2024 01:39:04 +0700</pubDate>
+      <guid>http://localhost:1313/rekomendasi/buku/</guid>
+      <description>Ini rekomendasi buku saya.</description>
+    </item>
+  </channel>
+</rss>

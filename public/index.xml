@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sekolah Koding Milineal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sekolah Koding Milineal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Mar 2024 11:51:28 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth</title>
+      <link>http://localhost:1313/blog/fourth/</link>
+      <pubDate>Mon, 25 Mar 2024 11:51:28 +0700</pubDate>
+      <guid>http://localhost:1313/blog/fourth/</guid>
+      <description>Ini konten keempat</description>
+    </item>
+    <item>
+      <title>Third</title>
+      <link>http://localhost:1313/blog/third/</link>
+      <pubDate>Mon, 25 Mar 2024 11:48:30 +0700</pubDate>
+      <guid>http://localhost:1313/blog/third/</guid>
+      <description>Ini konten ketiga</description>
+    </item>
+    <item>
+      <title>Kontak</title>
+      <link>http://localhost:1313/kontak/</link>
+      <pubDate>Mon, 25 Mar 2024 01:51:18 +0700</pubDate>
+      <guid>http://localhost:1313/kontak/</guid>
+      <description>ini kontak website hugo saya</description>
+    </item>
+    <item>
+      <title>Buku</title>
+      <link>http://localhost:1313/rekomendasi/buku/</link>
+      <pubDate>Mon, 25 Mar 2024 01:39:04 +0700</pubDate>
+      <guid>http://localhost:1313/rekomendasi/buku/</guid>
+      <description>Ini rekomendasi buku saya.</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/blog/second-post/</link>
+      <pubDate>Mon, 25 Mar 2024 01:28:30 +0700</pubDate>
+      <guid>http://localhost:1313/blog/second-post/</guid>
+      <description>Ini contoh file kedua. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</description>
+    </item>
+    <item>
+      <title>Belajar Hugo</title>
+      <link>http://localhost:1313/blog/belajar-hugo/</link>
+      <pubDate>Mon, 25 Mar 2024 01:10:21 +0700</pubDate>
+      <guid>http://localhost:1313/blog/belajar-hugo/</guid>
+      <description>Ini adalah file pertama tetang Hugo</description>
+    </item>
+  </channel>
+</rss>

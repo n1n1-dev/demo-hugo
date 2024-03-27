@@ -1,0 +1,12 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}"/>
+{{ else if eq .Kind "section" }}
+<meta name="description" content="{{ .Summary }}"/>
+{{ else }}
+<meta name="description" content="{{ .Site.Params.Description }}"/>
+{{ end }}
+{{ partialCached "head/css.html" . }}
+{{ partialCached "head/js.html" . }}

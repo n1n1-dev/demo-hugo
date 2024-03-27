@@ -1,0 +1,12 @@
+<a href="/">Home</a>
+<a href="/blog">Blog</a>
+<a href="/rekomendasi">Rekomendasi</a>
+
+
+{{ if .IsHome }}
+<p>Aku adalah home</p>
+{{ end }}
+
+{{ if .IsPage }}
+<p>Aku adalah page</p>
+{{ end }}
